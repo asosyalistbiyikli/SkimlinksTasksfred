@@ -14,15 +14,16 @@ Test cases below has been created based on Acceptance Criteria.
 *SignUp with no credentials
 
 Also
-* email input has to be in valid email format ('____@___.com)
+* Email input has to be in valid email format ('____@___.com)
     - at least one character before @ sign 
     - at least one character between @ sign and . sign 
     - at least one character after . sign 
-* password input has to be in valid format    
+* Password input has to be in valid format    
     = at least one lower case letter
     - at least one upper case letter
     - at least one number 
     - at least one symbol
+* Password ınput must not show password ıtself
     
 Framework; 
 -------------
