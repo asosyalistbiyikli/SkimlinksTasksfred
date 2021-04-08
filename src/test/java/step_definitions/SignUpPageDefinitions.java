@@ -12,7 +12,7 @@ import utilities.BrowserUtils;
 import utilities.ConfigurationReader;
 import utilities.Driver;
 
-public class LoginPageDefinitions {
+public class SignUpPageDefinitions {
 	//I USED JAVA FAKER TO CREATE RANDOM DATA FOR MY TEST
     Faker faker = new Faker();
     SignUpPage signUpPage = new SignUpPage();
